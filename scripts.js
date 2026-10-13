@@ -5,7 +5,7 @@
 //    Exemplo: https://crudcrud.com/api/abc123.../clientes
 // Obs.: o endpoint do CrudCrud expira em 24h; gere outro quando precisar.
 // ============================================================
-const API_URL = "https://crudcrud.com/api/COLE_SEU_ENDPOINT_AQUI/clientes";
+const API_URL = "https://crudcrud.com/api/c1c27bf5ec1a45888e643e4649fdbb3f/clientes";
 
 // ---------- Elementos ----------
 const form = document.getElementById("clientForm");
